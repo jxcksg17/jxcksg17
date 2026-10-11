@@ -6,8 +6,7 @@ Bachelors in Computer Science Engineering
 
 **TKM College of Engineering**.
 
-I enjoy building backend systems, working with databases,
-and exploring AI-powered applications.
+Software Development | Backend Engineering | AI/ML | Cloud Computing
 
 ### 🛠 Tech Stack
 - **Languages:** Java, Python, C, JavaScript, SQL
