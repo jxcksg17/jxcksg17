@@ -44,5 +44,4 @@ database integration.
 
 ### 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/bhagat-krishna-404072293/)
-- [GitHub](https://github.com/jxcksg17)
 - [Email](mailto:bhagatkrishnakbfc17@gmail.com)
