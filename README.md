@@ -17,7 +17,7 @@ and exploring AI-powered applications.
 
 ### 🚀 Featured Projects
 
-**AI Due Diligence Copilot** *(In Development)*  
+**AI Due Diligence Copilot**  
 A financial document intelligence platform designed for
 evidence-backed analysis of company reports and filings.  
 **Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy.
