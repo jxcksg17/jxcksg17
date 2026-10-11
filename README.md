@@ -15,7 +15,7 @@ Software Development | Backend Engineering | AI/ML | Cloud Computing
 - **Databases:** PostgreSQL, MySQL, MongoDB, SQL Server
 - **Tools:** Git, GitHub, REST APIs
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **AI Due Diligence Copilot**  
 A financial document intelligence platform designed for
@@ -37,11 +37,11 @@ Java-based billing application with relational
 database integration.  
 **Tech:** Java, MySQL, JDBC.
 
-### 🎯 Currently Exploring
+### Currently Exploring
 - AI Engineering and Retrieval-Augmented Generation
 - Backend Architecture and API Development
 - Cloud Infrastructure and DevOps Fundamentals
 
-### 📫 Connect
+### Connect
 - [LinkedIn](https://www.linkedin.com/in/bhagat-krishna-404072293/)
 - [Email](mailto:bhagatkrishnakbfc17@gmail.com)
