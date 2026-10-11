@@ -1,8 +1,9 @@
-# Hi, I'm Bhagat Krishna 👋
+# Bhagat Krishna 🤝
 
 **Software Developer | AI & Backend Engineering**
 
-Bachelors in Computer Science Engineering 
+Bachelors in Computer Science Engineering
+
 **TKM College of Engineering**.
 
 I enjoy building backend systems, working with databases,
