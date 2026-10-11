@@ -2,8 +2,8 @@
 
 **Software Developer | AI & Backend Engineering**
 
-I'm a final-year Computer Science Engineering student at
-**TKM College of Engineering**, graduating in 2027.
+Bachelors in Computer Science Engineering 
+**TKM College of Engineering**.
 
 I enjoy building backend systems, working with databases,
 and exploring AI-powered applications.
