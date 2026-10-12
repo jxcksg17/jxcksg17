@@ -8,7 +8,7 @@ Bachelors in Computer Science Engineering
 
 Software Development | Backend Engineering | AI/ML | Cloud Computing
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
