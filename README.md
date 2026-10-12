@@ -8,12 +8,14 @@ Bachelors in Computer Science Engineering
 
 Software Development | Backend Engineering | AI/ML | Cloud Computing
 
-### 🛠 Tech Stack
-- **Languages:** Java, Python, C, JavaScript, SQL
-- **Backend:** FastAPI, Node.js, Express.js, ASP.NET
-- **Frontend:** React
-- **Databases:** PostgreSQL, MySQL, MongoDB, SQL Server
-- **Tools:** Git, GitHub, REST APIs
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 ### Featured Projects
 
